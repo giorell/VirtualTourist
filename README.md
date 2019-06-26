@@ -2,7 +2,7 @@
 
 This is my second project for the 2nd semester of the Udacity iOS program. 
 
-The goal of the app for a user is place a map pin and to click on the pin. Once the pin is clicked, the view transitions to a collection view with images. The images can be deleted and rearranged. 
+The goal of the app for a user to place a map pin and to click on the pin. Once the pin is clicked, the view transitions to a collection view with images. The images can be deleted and rearranged. 
 
 Previews made from iPhone X. 
 
